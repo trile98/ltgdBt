@@ -1,0 +1,7 @@
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\bin\Debug\OOAD.exe.config
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\bin\Debug\OOAD.exe
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\bin\Debug\OOAD.pdb
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\obj\Debug\OOAD.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\obj\Debug\OOAD.exe
+C:\Users\Nguyen Le\source\repos\OOAD\OOAD\obj\Debug\OOAD.pdb

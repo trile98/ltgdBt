@@ -1,0 +1,11 @@
+c:\users\nguyen le\source\repos\week08\week08\bin\Debug\week08.exe.config
+c:\users\nguyen le\source\repos\week08\week08\bin\Debug\week08.exe
+c:\users\nguyen le\source\repos\week08\week08\bin\Debug\week08.pdb
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.csprojAssemblyReference.cache
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.Properties.Resources.resources
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.csproj.GenerateResource.cache
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.csproj.CoreCompileInputs.cache
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.exe
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.pdb
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.FormPaint.resources
+c:\users\nguyen le\source\repos\week08\week08\obj\Debug\week08.formmdi.resources

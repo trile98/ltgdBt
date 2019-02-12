@@ -1,0 +1,10 @@
+C:\Users\Nguyen Le\source\repos\week12\week12\bin\Debug\week12.exe.config
+C:\Users\Nguyen Le\source\repos\week12\week12\bin\Debug\week12.exe
+C:\Users\Nguyen Le\source\repos\week12\week12\bin\Debug\week12.pdb
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.csprojAssemblyReference.cache
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.Form1.resources
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.Properties.Resources.resources
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.csproj.GenerateResource.cache
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.exe
+C:\Users\Nguyen Le\source\repos\week12\week12\obj\Debug\week12.pdb

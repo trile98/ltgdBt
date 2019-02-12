@@ -1,0 +1,9 @@
+F:\document\winform\project\week2\w02_03\bin\Debug\w02_03.exe.config
+F:\document\winform\project\week2\w02_03\bin\Debug\w02_03.exe
+F:\document\winform\project\week2\w02_03\bin\Debug\w02_03.pdb
+F:\document\winform\project\week2\w02_03\obj\Debug\w02_03.Form1.resources
+F:\document\winform\project\week2\w02_03\obj\Debug\w02_03.Properties.Resources.resources
+F:\document\winform\project\week2\w02_03\obj\Debug\w02_03.csproj.GenerateResource.cache
+F:\document\winform\project\week2\w02_03\obj\Debug\w02_03.csproj.CoreCompileInputs.cache
+F:\document\winform\project\week2\w02_03\obj\Debug\w02_03.exe
+F:\document\winform\project\week2\w02_03\obj\Debug\w02_03.pdb

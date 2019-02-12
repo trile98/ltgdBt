@@ -1,0 +1,10 @@
+F:\document\winform\project\week2\week2\obj\Debug\week2.csprojAssemblyReference.cache
+F:\document\winform\project\week2\week2\obj\Debug\week2.Form1.resources
+F:\document\winform\project\week2\week2\obj\Debug\week2.Properties.Resources.resources
+F:\document\winform\project\week2\week2\obj\Debug\week2.csproj.GenerateResource.cache
+F:\document\winform\project\week2\week2\obj\Debug\week2.csproj.CoreCompileInputs.cache
+F:\document\winform\project\week2\week2\bin\Debug\week2.exe.config
+F:\document\winform\project\week2\week2\bin\Debug\week2.exe
+F:\document\winform\project\week2\week2\bin\Debug\week2.pdb
+F:\document\winform\project\week2\week2\obj\Debug\week2.exe
+F:\document\winform\project\week2\week2\obj\Debug\week2.pdb

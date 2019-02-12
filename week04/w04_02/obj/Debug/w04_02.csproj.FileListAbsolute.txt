@@ -1,0 +1,9 @@
+C:\Users\Nguyen Le\source\repos\week04\w04_02\bin\Debug\w04_02.exe.config
+C:\Users\Nguyen Le\source\repos\week04\w04_02\bin\Debug\w04_02.exe
+C:\Users\Nguyen Le\source\repos\week04\w04_02\bin\Debug\w04_02.pdb
+C:\Users\Nguyen Le\source\repos\week04\w04_02\obj\Debug\w04_02.Form1.resources
+C:\Users\Nguyen Le\source\repos\week04\w04_02\obj\Debug\w04_02.Properties.Resources.resources
+C:\Users\Nguyen Le\source\repos\week04\w04_02\obj\Debug\w04_02.csproj.GenerateResource.cache
+C:\Users\Nguyen Le\source\repos\week04\w04_02\obj\Debug\w04_02.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Le\source\repos\week04\w04_02\obj\Debug\w04_02.exe
+C:\Users\Nguyen Le\source\repos\week04\w04_02\obj\Debug\w04_02.pdb

@@ -1,0 +1,10 @@
+C:\Users\Nguyen Le\source\repos\week04\week04\bin\Debug\week04.exe.config
+C:\Users\Nguyen Le\source\repos\week04\week04\bin\Debug\week04.exe
+C:\Users\Nguyen Le\source\repos\week04\week04\bin\Debug\week04.pdb
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\w04_01.csprojAssemblyReference.cache
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\week04.Form1.resources
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\week04.Properties.Resources.resources
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\w04_01.csproj.GenerateResource.cache
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\w04_01.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\week04.exe
+C:\Users\Nguyen Le\source\repos\week04\week04\obj\Debug\week04.pdb

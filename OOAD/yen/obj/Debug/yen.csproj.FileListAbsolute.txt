@@ -1,0 +1,7 @@
+C:\Users\Nguyen Le\source\repos\OOAD\yen\bin\Debug\yen.exe.config
+C:\Users\Nguyen Le\source\repos\OOAD\yen\bin\Debug\yen.exe
+C:\Users\Nguyen Le\source\repos\OOAD\yen\bin\Debug\yen.pdb
+C:\Users\Nguyen Le\source\repos\OOAD\yen\obj\Debug\yen.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Le\source\repos\OOAD\yen\obj\Debug\yen.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Le\source\repos\OOAD\yen\obj\Debug\yen.exe
+C:\Users\Nguyen Le\source\repos\OOAD\yen\obj\Debug\yen.pdb
